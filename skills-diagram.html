@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Matt Pocock Skills - 功能介绍</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: system-ui, -apple-system, sans-serif;
+    background: #0d1117;
+    color: #c9d1d9;
+    display: flex;
+    justify-content: center;
+    padding: 40px 20px;
+  }
+  .container { max-width: 1100px; width: 100%; }
+
+  .header {
+    text-align: center;
+    margin-bottom: 48px;
+  }
+  .header h1 {
+    font-size: 36px;
+    background: linear-gradient(135deg, #58a6ff, #bc8cff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-bottom: 8px;
+  }
+  .header .subtitle {
+    color: #8b949e;
+    font-size: 16px;
+  }
+
+  /* Philosophy cards */
+  .philosophy {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 16px;
+    margin-bottom: 48px;
+  }
+  .phil-card {
+    background: #161b22;
+    border: 1px solid #30363d;
+    border-radius: 12px;
+    padding: 20px;
+    text-align: center;
+  }
+  .phil-card .icon { font-size: 28px; margin-bottom: 8px; }
+  .phil-card .num { font-size: 12px; color: #58a6ff; margin-bottom: 4px; }
+  .phil-card h3 { font-size: 15px; margin-bottom: 6px; color: #f0f6fc; }
+  .phil-card p { font-size: 13px; color: #8b949e; line-height: 1.5; }
+  .phil-card .fix { font-size: 12px; color: #7ee787; margin-top: 8px; }
+
+  /* Main diagram */
+  .diagram {
+    display: grid;
+    grid-template-columns: 1fr 1fr 0.6fr;
+    gap: 24px;
+    margin-bottom: 48px;
+  }
+
+  .col h2 {
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    color: #8b949e;
+    margin-bottom: 16px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid #30363d;
+  }
+
+  .skill-card {
+    background: #161b22;
+    border: 1px solid #30363d;
+    border-radius: 10px;
+    padding: 16px;
+    margin-bottom: 12px;
+    transition: border-color 0.2s;
+  }
+  .skill-card:hover { border-color: #58a6ff; }
+
+  .skill-card .name {
+    font-size: 15px;
+    font-weight: 600;
+    color: #f0f6fc;
+    font-family: monospace;
+    margin-bottom: 4px;
+  }
+  .skill-card .desc {
+    font-size: 13px;
+    color: #8b949e;
+    line-height: 1.5;
+    margin-bottom: 8px;
+  }
+  .skill-card .tags {
+    display: flex;
+    gap: 6px;
+    flex-wrap: wrap;
+  }
+  .tag {
+    font-size: 11px;
+    padding: 2px 8px;
+    border-radius: 12px;
+    background: #1c2533;
+    color: #58a6ff;
+    border: 1px solid #1f3a5f;
+  }
+  .tag.green { color: #7ee787; border-color: #1f5a3a; background: #162b1c; }
+  .tag.purple { color: #bc8cff; border-color: #3a1f5a; background: #1f162b; }
+
+  /* Workflow */
+  .workflow {
+    background: #161b22;
+    border: 1px solid #30363d;
+    border-radius: 12px;
+    padding: 32px;
+    text-align: center;
+  }
+  .workflow h2 { font-size: 18px; margin-bottom: 24px; color: #f0f6fc; }
+  .flow-steps {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    flex-wrap: wrap;
+  }
+  .flow-step {
+    background: #1c2533;
+    border: 1px solid #30363d;
+    border-radius: 8px;
+    padding: 12px 16px;
+    font-size: 14px;
+    white-space: nowrap;
+  }
+  .flow-arrow { color: #58a6ff; font-size: 20px; }
+  .flow-step .skill { color: #58a6ff; font-family: monospace; font-size: 12px; }
+
+  /* Footer */
+  .footer {
+    text-align: center;
+    margin-top: 24px;
+    color: #484f58;
+    font-size: 13px;
+  }
+  .footer a { color: #58a6ff; text-decoration: none; }
+
+  @media (max-width: 800px) {
+    .diagram { grid-template-columns: 1fr; }
+    .philosophy { grid-template-columns: 1fr 1fr; }
+  }
+</style>
+</head>
+<body>
+<div class="container">
+
+  <div class="header">
+    <h1>Skills For Real Engineers</h1>
+    <p class="subtitle">Matt Pocock · 面向真实工程的 AI Agent 技能集 · 小而精、可组合</p>
+    <p class="subtitle" style="margin-top:4px; font-size:13px; color:#484f58;">一键安装: <code style="color:#58a6ff;">npx skills@latest add mattpocock/skills</code></p>
+  </div>
+
+  <!-- 核心理念 -->
+  <div class="philosophy">
+    <div class="phil-card">
+      <div class="icon">🎯</div>
+      <div class="num">问题 #1</div>
+      <h3>Agent 没理解我的意图</h3>
+      <p>你心里想的和 Agent 做的完全不一样</p>
+      <div class="fix">→ /grill-me /grill-with-docs</div>
+    </div>
+    <div class="phil-card">
+      <div class="icon">📝</div>
+      <div class="num">问题 #2</div>
+      <h3>Agent 太啰嗦</h3>
+      <p>Agent 用20个字解释1个字就能说清的事</p>
+      <div class="fix">→ CONTEXT.md 共享语言</div>
+    </div>
+    <div class="phil-card">
+      <div class="icon">🔴</div>
+      <div class="num">问题 #3</div>
+      <h3>代码跑不通</h3>
+      <p>没有反馈循环，Agent 在盲飞</p>
+      <div class="fix">→ /tdd /diagnose</div>
+    </div>
+    <div class="phil-card">
+      <div class="icon">🧱</div>
+      <div class="num">问题 #4</div>
+      <h3>代码成了屎山</h3>
+      <p>AI加速写码的同时也加速了软件熵增</p>
+      <div class="fix">→ /improve-codebase-architecture</div>
+    </div>
+  </div>
+
+  <!-- Skills 分类 -->
+  <div class="diagram">
+    <!-- 工程技能 -->
+    <div class="col">
+      <h2>⚙️ 工程技能 (ENGINEERING)</h2>
+
+      <div class="skill-card">
+        <div class="name">/setup-matt-pocock-skills</div>
+        <div class="desc">初始化仓库配置：Issue 追踪器、标签体系、文档布局。其他 skill 的前置步骤</div>
+        <div class="tags"><span class="tag green">首次必装</span></div>
+      </div>
+
+      <div class="skill-card">
+        <div class="name">/grill-with-docs</div>
+        <div class="desc">深度面试式提问 + 建立共享语言 + 写入 CONTEXT.md 和 ADR</div>
+        <div class="tags"><span class="tag purple">核心</span><span class="tag">对齐需求</span><span class="tag">文档生成</span></div>
+      </div>
+
+      <div class="skill-card">
+        <div class="name">/to-prd</div>
+        <div class="desc">将对话上下文转化为 PRD，询问涉及哪些模块，提交为 Issue</div>
+        <div class="tags"><span class="tag">需求文档</span><span class="tag">Issue</span></div>
+      </div>
+
+      <div class="skill-card">
+        <div class="name">/to-issues</div>
+        <div class="desc">把计划/PRD 拆成独立可抓取的 Issue，垂直切片方式</div>
+        <div class="tags"><span class="tag">任务拆分</span><span class="tag">垂直切片</span></div>
+      </div>
+    </div>
+
+    <!-- 工程技能续 -->
+    <div class="col">
+      <h2 style="color:#161b22;">.</h2>
+
+      <div class="skill-card">
+        <div class="name">/tdd</div>
+        <div class="desc">红-绿-重构循环，先写失败测试再实现，每次一个垂直切片</div>
+        <div class="tags"><span class="tag green">反馈循环</span><span class="tag">测试驱动</span></div>
+      </div>
+
+      <div class="skill-card">
+        <div class="name">/diagnose</div>
+        <div class="desc">严谨调试循环：复现 → 最小化 → 假设 → 插桩 → 修复 → 回归测试</div>
+        <div class="tags"><span class="tag green">调试</span><span class="tag">Bug修复</span></div>
+      </div>
+
+      <div class="skill-card">
+        <div class="name">/triage</div>
+        <div class="desc">按角色状态机对 Issue 进行分类分流</div>
+        <div class="tags"><span class="tag">Issue管理</span></div>
+      </div>
+
+      <div class="skill-card">
+        <div class="name">/improve-codebase-architecture</div>
+        <div class="desc">发现代码架构深化机会，基于 CONTEXT.md 和 ADR 做重构</div>
+        <div class="tags"><span class="tag purple">重构</span><span class="tag">架构</span></div>
+      </div>
+
+      <div class="skill-card">
+        <div class="name">/zoom-out</div>
+        <div class="desc">让 Agent 从更高视角解释代码在整体系统中的位置</div>
+        <div class="tags"><span class="tag">代码理解</span></div>
+      </div>
+
+      <div class="skill-card">
+        <div class="name">/prototype</div>
+        <div class="desc">快速建原型验证设计：终端 App 或多种 UI 变体切换预览</div>
+        <div class="tags"><span class="tag">原型</span><span class="tag">设计验证</span></div>
+      </div>
+    </div>
+
+    <!-- 生产力 + 杂项 -->
+    <div class="col">
+      <h2>🚀 生产力 (PRODUCTIVITY)</h2>
+
+      <div class="skill-card">
+        <div class="name">/grill-me</div>
+        <div class="desc">对计划/设计进行无情的面试式提问，解决每个决策分支</div>
+        <div class="tags"><span class="tag purple">对齐需求</span></div>
+      </div>
+
+      <div class="skill-card">
+        <div class="name">/caveman</div>
+        <div class="desc">极限压缩通信模式，减少约75% token 用量</div>
+        <div class="tags"><span class="tag green">省钱</span></div>
+      </div>
+
+      <div class="skill-card">
+        <div class="name">/handoff</div>
+        <div class="desc">将当前对话压缩成交接文档，供另一个 Agent 继续工作</div>
+        <div class="tags"><span class="tag">协作</span><span class="tag">上下文传递</span></div>
+      </div>
+
+      <div class="skill-card">
+        <div class="name">/write-a-skill</div>
+        <div class="desc">创建新 skill，含正确的结构和渐进式信息披露</div>
+        <div class="tags"><span class="tag green">扩展</span></div>
+      </div>
+
+      <h2 style="margin-top:24px;">📦 杂项 (MISC)</h2>
+
+      <div class="skill-card">
+        <div class="name">/git-guardrails</div>
+        <div class="desc">Claude Code Git 安全钩子，阻止危险命令</div>
+        <div class="tags"><span class="tag">安全</span></div>
+      </div>
+
+      <div class="skill-card">
+        <div class="name">/setup-pre-commit</div>
+        <div class="desc">Husky + lint-staged + Prettier 预提交检查</div>
+        <div class="tags"><span class="tag">代码质量</span></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 工作流 -->
+  <div class="workflow">
+    <h2>🔄 典型使用流程</h2>
+    <div class="flow-steps">
+      <div class="flow-step">
+        <div class="skill">/setup</div>
+        初始化仓库
+      </div>
+      <span class="flow-arrow">→</span>
+      <div class="flow-step">
+        <div class="skill">/grill-with-docs</div>
+        对齐需求 · 建共享语言
+      </div>
+      <span class="flow-arrow">→</span>
+      <div class="flow-step">
+        <div class="skill">/to-prd</div>
+        生成 PRD
+      </div>
+      <span class="flow-arrow">→</span>
+      <div class="flow-step">
+        <div class="skill">/to-issues</div>
+        拆分为 Issues
+      </div>
+      <span class="flow-arrow">→</span>
+      <div class="flow-step">
+        <div class="skill">/tdd</div>
+        红-绿-重构
+      </div>
+      <span class="flow-arrow">→</span>
+      <div class="flow-step">
+        <div class="skill">/diagnose</div>
+        调试修复
+      </div>
+      <span class="flow-arrow">→</span>
+      <div class="flow-step">
+        <div class="skill">/improve-arch</div>
+        架构优化
+      </div>
+    </div>
+  </div>
+
+  <div class="footer">
+    github.com/mattpocock/skills · 安装: <code>npx skills@latest add mattpocock/skills</code>
+  </div>
+
+</div>
+</body>
+</html>

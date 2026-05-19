@@ -1,0 +1,309 @@
+[INFO] 获取 the-news API (28家美国媒体头条)...
+[INFO] -> 获取到 27 条
+[INFO] 获取华尔街见闻 7x24 快讯...
+[INFO] -> 获取到 30 条
+[INFO] 智能排序筛选 Top 10...
+
+## 路透社 & 彭博社 每日十大热点
+**2026-05-17 11:38** (北京时间)
+
+### 1. **[路透/彭博]** 报道：贝莱德或将在SpaceX IPO中投资数十亿美元
+
+---
+
+### 2. Trump Calls Xi a ‘Friend.’ But He Left China Without Any Breakthroughs.
+> President Trump seemed intent on diplomacy through charm and force of will, but Xi Jinping appeared more focused on adva
+
+---
+
+### 3. Cuba Braces as Trump Doubles Down Despite Iran War Woes
+> “This has become a very strong interest to the White House, and it doesn’t appear to be going away or wavering,” one exp
+
+---
+
+### 4. Bret Baier Confronts Trump Over Ignoring Americans' Financial Pains As Iran War Stretches On
+
+---
+
+### 5. Trump Reveals Strike On ‘The Most Active Terrorist In The World’
+
+---
+
+### 6. SOME BUMPS FOR 'ARC DE TRUMP'
+> LATEST UPDATES: GOP Sen. Blasts 'Impulsive' Hegseth, FAA Staffing Cuts, Major Rail Strike, MORE…
+
+---
+
+### 7. Trump calls GOP senator ‘disloyal’ on day of Louisiana primary
+> Sen. Bill Cassidy, one of seven Republicans who voted to convict Trump in his 2021 impeachment trial, is in danger of lo
+
+---
+
+### 8. Polls close in Louisiana Republican primary as Trump backs challenger to Sen. Bill Cassidy
+> Republican Sen. Bill Cassidy of Louisiana is fighting for his political life in Saturday’s primary against a challenger 
+
+---
+
+### 9. The townspeople of Vilseck, Germany, worry that Trump may pull out 5,000 U.S. troops
+> President Trump's troop withdrawal threat rattles residents of a small Bavarian town reliant on U.S. military personnel 
+
+---
+
+### 10. The newest Trump monument disobeys the biblical commandment to ‘flee from idolatry’
+
+---
+
+*数据: the-news API + 华尔街见闻 | 推送: Server酱*
+
+[INFO] 推送到微信...
+[OK] 微信推送成功!
+^C^C[INFO] 获取 the-news API (28家美国媒体头条)...
+[WARN] the-news API error: <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。>
+[INFO] -> 获取到 0 条
+[INFO] 获取华尔街见闻 7x24 快讯...
+[WARN] WallStreetCN error: <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。>
+[INFO] -> 获取到 0 条
+[INFO] 智能排序筛选 Top 10...
+
+## 路透社 & 彭博社 每日十大热点
+**2026-05-18 12:44** (北京时间)
+
+*数据: the-news API + 华尔街见闻 | 推送: Server酱*
+
+[INFO] 推送到微信...
+[ERROR] 推送失败: <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。>
+[INFO] 获取 the-news API (28家美国媒体头条)...
+[INFO] -> 获取到 25 条
+[INFO] 获取华尔街见闻 7x24 快讯...
+[INFO] -> 获取到 30 条
+[INFO] 智能排序筛选 Top 10...
+
+## 路透社 & 彭博社 每日十大热点
+**2026-05-18 12:49** (北京时间)
+
+### 1. Sen. Lindsey Graham says status quo in the Strait of Hormuz is ‘hurting us all’
+> The South Carolina Republican called on Trump to renew U.S. attacks on Iran amid a fragile ceasefire and stalled negotia
+
+---
+
+### 2. Trump-backed prayer festival on National Mall draws thousands: ‘We welcome Jesus!’
+> Sunday’s “Rededicate 250” event features dozens of virtual and in-person speakers, including the president, top Republic
+
+---
+
+### 3. 'Won't be anything left': Trump issues warning to Iran
+
+---
+
+### 4. Trump Begins Branding America’s 250th Anniversary as a Christian Celebration
+
+---
+
+### 5. TRUMP ADMIN ALL OVER CHRISTIAN NATIONALISM RALLY
+> LATEST UPDATES…
+
+---
+
+### 6. ‘Teen takeover’ devolves into wild brawl inside DC Chipotle — as feds promise to charge ignorant parents
+> People could be heard screaming in the background as the youths vaulted on top of one another, throwing punches at rando
+
+---
+
+### 7. Drone strikes UAE nuclear plant as US and Iran signal they are prepared to resume war
+> A drone strike has targeted the United Arab Emirates’ sole nuclear power plant. No one has been blamed and no major dama
+
+---
+
+### 8. Nuclear Power Plant Struck in Fiery Drone Attack ‘Operating As Normal’—UAE
+> A drone strike sparked a fire at UAE nuclear plant as fears grow over Iran tensions and risks to Gulf infrastructure.
+
+---
+
+### 9. The War in Iran Is Crippling One of the World’s Wealthiest Nations
+> Iranian attacks and the halt of seaborne transit have paralyzed Qatar’s vital gas exports, stalling economic pivots inte
+
+---
+
+### 10. Police arrest 2 juveniles allegedly linked to 12 random shootings injuring 4 people
+
+---
+
+*数据: the-news API + 华尔街见闻 | 推送: Server酱*
+
+[INFO] 推送到微信...
+[OK] 微信推送成功!
+[INFO] 获取 the-news API (28家美国媒体头条)...
+[INFO] -> 获取到 25 条
+[INFO] 获取华尔街见闻 7x24 快讯...
+[INFO] -> 获取到 30 条
+[INFO] 智能排序筛选 Top 10...
+
+## 路透社 & 彭博社 每日十大热点
+**2026-05-18 18:17** (北京时间)
+
+### 1. **[路透/彭博]** 伊朗成立管理霍尔木兹海峡新机构
+
+---
+
+### 2. **[路透/彭博]** 日本首相高市早苗呼吁编制补充预算 以应对中东局势带来的冲击
+
+---
+
+### 3. Trump-backed prayer festival on National Mall draws thousands: ‘We welcome Jesus!’
+> Sunday’s “Rededicate 250” event features dozens of virtual and in-person speakers, including the president, top Republic
+
+---
+
+### 4. Guns on television and in Iran's streets as Trump renews war threats
+
+---
+
+### 5. President Trump eyes Thomas Massie in latest GOP purge election
+> The president has endorsed retired Navy SEAL Ed Gallrein in what marks his most aggressive attempt to catapult a dissent
+
+---
+
+### 6. Trump Begins Branding America’s 250th Anniversary as a Christian Celebration
+
+---
+
+### 7. TRUMP ADMIN ALL OVER CHRISTIAN NATIONALISM RALLY
+> LATEST UPDATES…
+
+---
+
+### 8. Trump Humiliated as Citizens Fail to Flock to His Free Event
+> The president spoke via video to a sea of empty seats.
+
+---
+
+### 9. 马斯克称希望尽快推进SpaceX的IPO计划
+
+---
+
+### 10. ‘Teen takeover’ devolves into wild brawl inside DC Chipotle — as feds promise to charge ignorant parents
+> People could be heard screaming in the background as the youths vaulted on top of one another, throwing punches at rando
+
+---
+
+*数据: the-news API + 华尔街见闻 | 推送: Server酱*
+
+[INFO] 推送到微信...
+[OK] 微信推送成功!
+[INFO] 获取 the-news API (28家美国媒体头条)...
+[INFO] -> 获取到 28 条
+[INFO] 获取华尔街见闻 7x24 快讯...
+[INFO] -> 获取到 30 条
+[INFO] 智能排序筛选 Top 10...
+
+## 路透社 & 彭博社 每日十大热点
+**2026-05-19 08:14** (北京时间)
+
+### 1. **[路透/彭博]** 提醒：日内请重点关注（以下均为北京时间）
+
+---
+
+### 2. **[路透/彭博]** 报道：美国SEC将推股票“代币化”交易方案，开辟加密交易新战场
+
+---
+
+### 3. Judge dismisses Trump's IRS lawsuit, paving the way for a settlement
+> The president sued the IRS and the Treasury Department in January, demanding $10 billion over the leak of his tax return
+
+---
+
+### 4. Trump Says He Authorized New Strikes on Iran, but Has Decided to Hold Off
+> President Trump has repeatedly threatened new military action against Iran, only to pull back from resuming fighting in 
+
+---
+
+### 5. Trump Says He Sees 'Good Chance' of Iran Nuke Deal After Delaying New Strike
+> "There seems to be a ⁠very ⁠good chance that they can work something out. ‌If we can do that without bombing the hell ou
+
+---
+
+### 6. Trump says he’s called off an attack on Iran to give talks more time
+> In a Truth Social post, the president said the leaders of Qatar, Saudi Arabia and the United Arab Emirates had asked him
+
+---
+
+### 7. Trump administration creates $1.776 billion fund for allies
+
+---
+
+### 8. A Different Kind of Fading President
+> Joe Biden became quieter, while Donald Trump grows even louder.
+
+---
+
+### 9. Trump gets his slush fund
+> How Trump sued himself and settled for $1.8 billion, briefly explained.
+
+---
+
+### 10. Donald Trump and Josh Hawley's Federal Gas Tax Holiday Would Save Drivers Less Than $9 Per Month
+
+---
+
+*数据: the-news API + 华尔街见闻 | 推送: Server酱*
+
+[INFO] 推送到微信...
+[OK] 微信推送成功!
+^C^C[INFO] 获取 the-news API (28家美国媒体头条)...
+[INFO] -> 获取到 28 条
+[INFO] 获取华尔街见闻 7x24 快讯...
+[INFO] -> 获取到 30 条
+[INFO] 智能排序筛选 Top 10...
+
+## 路透社 & 彭博社 每日十大热点
+**2026-05-19 16:23** (北京时间)
+
+### 1. **[路透/彭博]** 报道：复星国际已选择银行安排地中海俱乐部在香港进行IPO
+
+---
+
+### 2. **[路透/彭博]** 世卫组织周二将就埃博拉疫情举行紧急会议。（彭博）
+
+---
+
+### 3. **[路透/彭博]** 伊朗副外长公布伊对美协议草案提议 包括美军从周边地区撤离
+
+---
+
+### 4. Trump says he’s called off an attack on Iran to give talks more time
+> In a Truth Social post, the president said the leaders of Qatar, Saudi Arabia and the United Arab Emirates had asked him
+
+---
+
+### 5. A Different Kind of Fading President
+> Joe Biden became quieter, while Donald Trump grows even louder.
+
+---
+
+### 6. Trump gets his slush fund
+> How Trump sued himself and settled for $1.8 billion, briefly explained.
+
+---
+
+### 7. Donald Trump, Thomas Massie, and the Long, Slow Death of the Tea Party
+
+---
+
+### 8. HUH? DEFENSE SEC. ON THE STUMP
+> LATEST UPDATES: Trump Goes After Maryland, Meta Layoffs, Arcade Game Satirizing Prez Heads To Florida, MORE...
+
+---
+
+### 9. I Know Why Desperate Trump Is in Free Fall: Political Guru
+> “He is in bad shape,” political analyst David Rothkopf said of Trump, after the president was dealt yet another politica
+
+---
+
+### 10. Donald Trump’s Impeachment Revenge Could Come Back to Bite
+
+---
+
+*数据: the-news API + 华尔街见闻 | 推送: Server酱*
+
+[INFO] 推送到微信...
+[OK] 微信推送成功!

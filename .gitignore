@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+.claude/session-env/
+.claude/sessions/
+.claude/cache/
+.claude/file-history/
+.claude/backups/
+.claude/plans/
+.claude/plugins/

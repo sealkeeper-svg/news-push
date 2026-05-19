@@ -1,0 +1,1 @@
+powershell -Command "$action = New-ScheduledTaskAction -Execute 'C:\Users\20105\Desktop\cc\news-push\run.bat'; $trigger = New-ScheduledTaskTrigger -Daily -At '08:00AM'; Register-ScheduledTask -TaskName 'ReutersBloombergDailyNews' -Action $action -Trigger $trigger -Force; Write-Host 'Done'"
