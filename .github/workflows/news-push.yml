@@ -1,0 +1,37 @@
+name: Daily News Push
+
+on:
+  schedule:
+    # 北京时间 7:53 = UTC 23:53 (前一天)
+    - cron: '53 23 * * *'
+  workflow_dispatch:
+
+jobs:
+  push:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Write config
+        run: |
+          cat > config.json << EOF
+          {"sendkey": "${{ secrets.SENDKEY }}"}
+          EOF
+
+      - name: Run news push
+        run: python 每日热点新闻推送.py
+
+      - name: Commit push log
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add push_log.txt
+          git diff --staged --quiet || git commit -m "📰 $(TZ='Asia/Shanghai' date +'%Y-%m-%d') 新闻推送日志"
+          git push

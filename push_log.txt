@@ -1,309 +1,262 @@
+
+[INFO] 获取 the-news API (28家美国媒体头条)...
+[INFO] -> 获取到 28 条
+[INFO] 获取华尔街见闻 7x24 快讯...
+[INFO] -> 获取到 50 条
+[INFO] 智能排序筛选...
+[INFO] Selected 20 items
+
+## Reuters & Bloomberg Daily Top News
+**2026-05-23 08:57** (Beijing Time)
+
+## 💻 Tech
+
+### 1. 美股七巨头收盘播报｜英伟达收跌1.9%，业绩报告发布当周回撤超4.4%
+> 周五（5月22日），美国科技股七巨头（Magnificent 7）指数跌0.41%，报224.49点，本周累跌1.18%。
+
+成分股英伟达收跌1.90%——本周回撤4.43%（4月份以来的这一波上涨行情中、出现第二周下跌），谷歌A跌1.21%，亚马逊跌0.80%，微软跌0.12%，Meta涨0.47%，苹果涨1.26%，特斯拉涨1.95%。
+
+此外，台积电收跌0.65%，伯克希尔哈撒韦B类股涨1.33%，礼来制药涨2.24%，AMD涨3.99%。
+
+“超大”市值科技股指数涨0.75%，报454.41点，本周累涨1.03%。
+
+
+
+---
+
+### 2. 本周美股存储芯片指数涨超3.3%，希捷股价八周超过翻倍
+> 周五（5月22日），美股存储芯片与硬件供应链指数下跌0.96%，报188.17点，本周累计上涨3.34%，5月19日盘初跌至164.65点，随后平滑地持续走高。
+
+本周，成分股Sandisk（闪迪）反弹5.05%，西部数据回撤0.47%，希捷科技涨2.17%，连续第八周上涨（5月11日涨至834.01美元创收盘历史新高）——4月份以来累计上涨113.83%；Rambus反弹12.54%，
+
+拉姆研究反弹7.25%，应用材料回撤3.92%，美光科技反弹3.63%，泰瑞达反弹6.13%。
+
+信息科技指数涨1.36%，报404.47点，本周累涨5.08%。
+
+
+
+---
+
+### 3. 美股行业ETF几乎全线收涨，半导体ETF涨约1.5%
+> 周五（5月22日），半导体ETF收涨1.49%，医疗业ETF、科技行业ETF至少涨1%，网络股指数ETF、全球科技股指数ETF、能源业ETF至少涨0.61%，生物科技指数ETF跌0.16%。
+
+2026年迄今，半导体ETF累计上涨60.03%，能源业ETF涨33.92%，全球科技股指数ETF涨28.89%，科技行业ETF涨25.45%，医疗业ETF、全球航空业ETF、金融业ETF则至多累跌4.68%。
+
+---
+
+## 📈 US Market
+
+### 4. 两年期美债收益率在沃什就任美联储主席当天涨约3.8个基点，本周两年期实际收益率狂飙将近30个基点
+> 周五（5月22日）纽约尾盘，美国10年期基准国债收益率跌1.18个基点，报4.5578%，美联储理事沃勒讲话之前，在北京时间21:16刷新日低至4.5241%，沃什讲话后继续反弹，22:50刷新日高至4.5837%，凯文·沃什在00:00宣誓就任美联储主席的前后高位企稳，本周累计下跌3.55个基点，整体交投于4.6853%-4.5241%。
+
+两年期美债收益率涨3.79个基点，报4.1210%，也在美股开盘之前刷新日低至4.0505%，沃什讲话后持续走高，沃什宣誓就职之际、在00:05刷新日高至4.1423%，本周累涨5.22个基点，5月20日23:00曾跳水至4.0085%。
+
+---
+
+### 5. 特朗普向沃什施压
+> 美联储主席凯文·沃什宣誓就职当天，美国总统特朗普在美股收盘之后宣称：“我现在有沃什这样一位优秀的美联储主席，我们将迅速降低利率”。
+
+---
+
+### 6. 周五（5月22日）纽约尾盘，标普500股指期货最终涨0.29%，道指期货涨0.51%，纳斯达克100股指期货涨0.30%。
+
+罗素2000股指期货涨0.69%。
+
+---
+
+## 🛢️ Energy
+
+### 7. 加拿大石油重镇信心满满，预计两个月内与油企达成碳捕集项目关键协议
+> 加拿大阿尔伯塔省（Alberta）省长Danielle Smith预计，将在今年夏季与各大石油巨头正式达成在油砂开采中部署碳捕集技术的最终协议。一旦与油砂联盟（Oil Sands Alliance）就“开拓者（Pathways）”碳捕集项目达成实质性协议，将彻底扫清建立一条通往不列颠哥伦比亚省（BC省）海岸线全新输油管道的战略障碍。Smith正大力推动建设这条旨在销往亚洲市场的新输油管道，以此大幅拉高阿尔伯塔省的原油产量。该管道的具体路线细节预定于7月1日前公布，并计划在10月1日前获得有条件的行政批准。
+
+---
+
+### 8. 美国总统特朗普：我们已经从委内瑞拉攫取了如此多的石油。
+
+等我解决完伊朗问题，油价将暴跌。
+
+我们已经阻止了伊朗拥有核武器。
+
+伊朗问题很快就会结束。
+
+---
+
+### 9. **[Reuters/Bloomberg]** 官员们表示：俄罗斯黑海港口Novorossiysk石油输送枢纽因（多架）无人机碎片坠落而起火。（路透）
+
+---
+
+## 📊 Macro
+
+### 10. 金价在沃什宣誓日跌超0.7%，美联储理事沃勒讲话提振美元
+> 周五（5月22日）纽约尾盘，现货黄金跌0.76%，报4508.32美元/盎司，整体持续走低，美联储理事沃勒讲话之际、在北京时间22:25刷新日低至4492.13美元，凯文·沃什在00:00宣誓就任美联储主席前后持稳于4520美元一线，本周累跌0.70%。
+
+COMEX黄金期货跌0.76%，报4507.90美元/盎司，本周累跌1.16%。
+
+现货白银跌1.54%，报75.4955美元/盎司，本周累跌0.66%。
+
+COMEX白银期货跌1.20%，报75.810美元/盎司，本周累跌2.24%。
+
+COMEX铜期货涨1.37%，报6.38美元/磅，本周累涨1.30%。
+
+
+
+---
+
+## 🇺🇸 US Politics
+
+### 11. **[Reuters/Bloomberg]** 知情人士：美筹备对伊朗发动新一轮军事打击 但仍未最终决定
+> 据知情人士透露，尽管外交努力仍在持续，特朗普政府当日仍在筹备对伊朗发动新一轮军事打击。截至当日下午，关于是否发动打击尚未有最终决定。
+
+---
+
+### 12. 美国总统特朗普：伊朗永远不会拥有核武器，他们知道这一点。
+
+---
+
+### 13. 报道：特朗普周五会见了伊朗问题高级顾问
+> 据Axios报道，美国总统特朗普周五会见了伊朗问题高级顾问们。特朗普考虑，如果（与伊朗的）对话没有取得突破性进展，将发动新的袭击。特朗普听取了关于伊朗对话失败情况下的各类应对预案。没有迹象表明特朗普已经决定要回复袭击伊朗。
+
+---
+
+## 🌍 Mid-East / Geo
+
+### 14. 拉夫罗夫：俄坚决反对再次发生针对伊朗的武装侵略
+> 据俄罗斯方面当地时间22日消息，俄罗斯外长拉夫罗夫表示，坚决反对再次发生任何针对伊朗的武装侵略或使用武力干涉其事务的行为。拉夫罗夫称，俄方呼吁立即停止在伊朗和黎巴嫩使用武力，停止对伊朗及其邻国的民用基础设施、包括受国际原子能机构保障监督的核设施不合理地使用武力。 (央视新闻)
+
+---
+
+### 15. Another Chance at Blocking Funding of Israeli Settlements
+> In 2023, as a state assembly member, Zohran Mamdani introduced the “Not on Our Dime” bill that would block New York charities from supporting illegal Israeli settlements. Today, with pro-Palestine sentiment growing, his socialist allies reintroduced the bill.
+> [Jacobin](https://jacobin.com/2026/05/new-york-legislation-mamdani-israeli-settlements)
+
+---
+
+### 16. 【美伊协议草案或将在数小时内公布】据沙特阿拉伯阿拉比亚电视台报道，消息人士22日透露，美国和伊朗“接近达成”的协议草案预计将在数小时内公布。 (新华社)
+
+---
+
+## 🇨🇳 US-China
+
+### 17. 欧盟委员会主席冯德莱恩：对墨西哥大部分农产品加征的关税将被废止。
+
+欧盟将在墨西哥投资50亿欧元。
+
+---
+
+## 📌 Other
+
+### 18. **[Reuters/Bloomberg]** Tradeweb运营数据显示，受国际货币基金组织（IMF）积极表态的刺激，塞内加尔2033年到期的美元主权债券上涨0.5美分，买盘报价略高于面值的53%（53美分/1美元），刷新了5月月中以来的最高水平。（路透）
+
+---
+
+### 19. Regional Mediators Rush to Save U.S.-Iran Cease-Fire
+> Pakistan and Qatar have dispatched teams to Iran under the looming threat of resumed war, after weeks of diplomacy failed to produce an agreement.
+> [The New York Times](https://www.nytimes.com/2026/05/22/world/middleeast/iran-ceasefire-us-qatar-pakistan.html)
+
+---
+
+### 20. New rule requires most green-card applicants to apply from outside U.S.
+> Immigration lawyers say the change could impact a wide swath of people and marks an escalation in the administration’s efforts to curtail legal migration.
+> [The Washington Post](https://www.washingtonpost.com/immigration/2026/05/22/new-rule-requires-most-green-card-applicants-apply-outside-us/)
+
+---
+
+*Data: the-news API + WallStreetCN | Push: ServerChan*
+
+[INFO] Pushing to WeChat...
+[OK] 微信推送成功!
 [INFO] 获取 the-news API (28家美国媒体头条)...
 [INFO] -> 获取到 27 条
 [INFO] 获取华尔街见闻 7x24 快讯...
-[INFO] -> 获取到 30 条
-[INFO] 智能排序筛选 Top 10...
+[INFO] -> 获取到 50 条
+[INFO] 智能排序筛选...
+[INFO] Selected 10 items
 
-## 路透社 & 彭博社 每日十大热点
-**2026-05-17 11:38** (北京时间)
+## Reuters & Bloomberg Daily Top News
+**2026-05-24 11:37** (Beijing Time)
 
-### 1. **[路透/彭博]** 报道：贝莱德或将在SpaceX IPO中投资数十亿美元
+## 🛢️ Energy
 
----
-
-### 2. Trump Calls Xi a ‘Friend.’ But He Left China Without Any Breakthroughs.
-> President Trump seemed intent on diplomacy through charm and force of will, but Xi Jinping appeared more focused on adva
-
----
-
-### 3. Cuba Braces as Trump Doubles Down Despite Iran War Woes
-> “This has become a very strong interest to the White House, and it doesn’t appear to be going away or wavering,” one exp
+### 1. Trump Says Iran Deal Close, Lindsey Graham Raises Concerns
+> President Donald Trump announced Saturday that the United States and Iran are on the verge of reaching what he described as a broad "Memorandum of Understanding pertaining to PEACE." Senator Lindsey Graham issued a pair of sharply worded statements warning that any deal perceived as allowing Iran…
+> [Newsmax](https://www.newsmax.com/newsfront/iran-deal-president-trump-memorandum/2026/05/23/id/1257309/)
 
 ---
 
-### 4. Bret Baier Confronts Trump Over Ignoring Americans' Financial Pains As Iran War Stretches On
+## 🇺🇸 US Politics
+
+### 2. 特朗普：美伊协议基本谈成，内容包括开放霍尔木兹海峡
+> 美国总统特朗普23日下午在社交媒体发文，称美国与伊朗已基本谈成一份协议，有待美伊双方及相关伊斯兰国家最终敲定。协议内容包括开放霍尔木兹海峡。
+
+特朗普表示，他刚刚同沙特阿拉伯、阿联酋、卡塔尔、土耳其、埃及、约旦、巴林等国领导人以及巴基斯坦陆军参谋长穆尼尔通电话，主要讨论伊朗以及“与和平谅解备忘录相关的所有事宜”。
+
+他写道，“一项协议已基本完成谈判，正待美国、伊朗以及上述各国最终敲定”，协议最终事项和细节目正在商讨中，不久将公布。协议的诸多内容包括开放霍尔木兹海峡。
+
+特朗普还说，他当天单独与以色列总理内塔尼亚胡通了电话，同样“非常顺利”。（新华社）
 
 ---
 
-### 5. Trump Reveals Strike On ‘The Most Active Terrorist In The World’
+### 3. 美官员：美伊协议接近达成，分歧仅在关键条款“措辞”
+> 据美国方面23日消息，一名美方知情官员说，美国与伊朗正接近达成一份旨在结束战事的协议，双方剩余分歧主要集中在几个关键条款的“措辞”上。
+
+不过，这名官员同时强调，美总统特朗普还未作出最终决定，他仍有可能否决这份协议并下令对伊朗发动新的打击。
 
 ---
 
-### 6. SOME BUMPS FOR 'ARC DE TRUMP'
-> LATEST UPDATES: GOP Sen. Blasts 'Impulsive' Hegseth, FAA Staffing Cuts, Major Rail Strike, MORE…
+### 4. 特朗普称美伊达成协议还是重启战事仍是“对半开”，又说美伊“越来越接近”达成协议
+> 美国总统特朗普23日说，美国与伊朗的谈判“越来越接近”达成协议。
+
+特朗普是在接受美国哥伦比亚广播公司记者电话采访时作出上述发言，但他拒绝透露协议具体细节，只是说“情况每天都在变得越来越好”。
+
+特朗普表示，他相信最终协议将能阻止伊朗获取核武器，还将确保伊朗的浓缩铀得到“令人满意的处置”，并称“我只会签署一份能让我们得到所有想要内容的协议”。
 
 ---
 
-### 7. Trump calls GOP senator ‘disloyal’ on day of Louisiana primary
-> Sen. Bill Cassidy, one of seven Republicans who voted to convict Trump in his 2021 impeachment trial, is in danger of lo
+## 🌍 Mid-East / Geo
+
+### 5. **[Reuters/Bloomberg]** 沙特媒体：伊朗欲以开放霍尔木兹海峡换美国赔偿
+> 沙特阿拉伯阿拉比亚电视台5月23日援引消息人士的话报道，伊朗已向巴基斯坦调解方提交了两份方案，提出以开放霍尔木兹海峡换取美国赔偿，并要求在签署任何协议前先就制裁和被冻结资金问题进行讨论。
+
+阿拉比亚电视台还援引消息人士的话说，巴基斯坦陆军参谋长穆尼尔已向伊朗方面转达了美方信息。美方向伊朗传递的信息包括保证“如果伊朗同意达成协议，有争议的问题可以稍后解决”。如果伊朗拒绝协议，将面临“负面后果”。（新华社）
 
 ---
 
-### 8. Polls close in Louisiana Republican primary as Trump backs challenger to Sen. Bill Cassidy
-> Republican Sen. Bill Cassidy of Louisiana is fighting for his political life in Saturday’s primary against a challenger 
+### 6. 报道：美国与伊朗接近同意将停火协议延长60天
+> 据调停人透露，美国与伊朗接近同意将停火协议延长60天。
+
+美伊停火将包括逐步重新开放霍尔木兹海峡。
+
+如果达成协议，美国将放松对伊朗港口的封锁。
+
+美国还将同意放松制裁。（英国金融时报）
 
 ---
 
-### 9. The townspeople of Vilseck, Germany, worry that Trump may pull out 5,000 U.S. troops
-> President Trump's troop withdrawal threat rattles residents of a small Bavarian town reliant on U.S. military personnel 
+### 7. 伊朗总统：以色列是唯一试图通过挑起战争来谋取利益的势力
+> 伊朗总统佩泽希齐扬在会见巴基斯坦陆军参谋长穆尼尔时表示，伊朗在实践中已经证明了自身对国际法理框架的遵守。他说：“我们仅仅是在寻求恢复我们国家和人民的合法与正当权利。然而，以往与美国人谈判的历史和经验告诫我们，必须保持最高程度的谨慎与审慎。”佩泽希齐扬表示，美国在这场冲突中不会成为赢家，而地区国家乃至全世界都将为此承担严重损失。以色列政权是唯一试图通过挑起战争来谋取自身在地区利益的势力。（央视）
 
 ---
 
-### 10. The newest Trump monument disobeys the biblical commandment to ‘flee from idolatry’
+## 📌 Other
+
+### 8. Suspect dead after opening fire near White House security checkpoint, Secret Service says
+> A person who approached a White House security checkpoint and began firing at officers has died, according to federal officials.
+> [Associated Press](https://apnews.com/article/white-house-gunshots-lockdown-secret-service-trump-204c429ab3888b3d0921cf724e0c0474)
 
 ---
 
-*数据: the-news API + 华尔街见闻 | 推送: Server酱*
-
-[INFO] 推送到微信...
-[OK] 微信推送成功!
-^C^C[INFO] 获取 the-news API (28家美国媒体头条)...
-[WARN] the-news API error: <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。>
-[INFO] -> 获取到 0 条
-[INFO] 获取华尔街见闻 7x24 快讯...
-[WARN] WallStreetCN error: <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。>
-[INFO] -> 获取到 0 条
-[INFO] 智能排序筛选 Top 10...
-
-## 路透社 & 彭博社 每日十大热点
-**2026-05-18 12:44** (北京时间)
-
-*数据: the-news API + 华尔街见闻 | 推送: Server酱*
-
-[INFO] 推送到微信...
-[ERROR] 推送失败: <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。>
-[INFO] 获取 the-news API (28家美国媒体头条)...
-[INFO] -> 获取到 25 条
-[INFO] 获取华尔街见闻 7x24 快讯...
-[INFO] -> 获取到 30 条
-[INFO] 智能排序筛选 Top 10...
-
-## 路透社 & 彭博社 每日十大热点
-**2026-05-18 12:49** (北京时间)
-
-### 1. Sen. Lindsey Graham says status quo in the Strait of Hormuz is ‘hurting us all’
-> The South Carolina Republican called on Trump to renew U.S. attacks on Iran amid a fragile ceasefire and stalled negotia
+### 9. Chile's MAGA-inspired border control
+> Chile digs desert trenches along its northern border as President José Antonio Kast pushes a hardline migration crackdown critics say may have little effect.
+> [NPR](https://www.npr.org/2026/05/23/nx-s1-5806607/chile-maga-inspired-border-control)
 
 ---
 
-### 2. Trump-backed prayer festival on National Mall draws thousands: ‘We welcome Jesus!’
-> Sunday’s “Rededicate 250” event features dozens of virtual and in-person speakers, including the president, top Republic
+### 10. 中疾控：从刚果（金）和乌干达等来（返）华人员，进行21天自我健康监测
+> 5月23日，中国疾控中心发布埃博拉病毒病防控提示。近期，从刚果（金）和乌干达等疫情风险国家和地区来（返）华人员，自入境之日起，进行21天自我健康监测。如出现发热、乏力、头痛、咽喉痛、呕吐、腹泻、不明原因出血等症状，要及时就医。（央视新闻）
 
 ---
 
-### 3. 'Won't be anything left': Trump issues warning to Iran
+*Data: the-news API + WallStreetCN | Push: ServerChan*
 
----
-
-### 4. Trump Begins Branding America’s 250th Anniversary as a Christian Celebration
-
----
-
-### 5. TRUMP ADMIN ALL OVER CHRISTIAN NATIONALISM RALLY
-> LATEST UPDATES…
-
----
-
-### 6. ‘Teen takeover’ devolves into wild brawl inside DC Chipotle — as feds promise to charge ignorant parents
-> People could be heard screaming in the background as the youths vaulted on top of one another, throwing punches at rando
-
----
-
-### 7. Drone strikes UAE nuclear plant as US and Iran signal they are prepared to resume war
-> A drone strike has targeted the United Arab Emirates’ sole nuclear power plant. No one has been blamed and no major dama
-
----
-
-### 8. Nuclear Power Plant Struck in Fiery Drone Attack ‘Operating As Normal’—UAE
-> A drone strike sparked a fire at UAE nuclear plant as fears grow over Iran tensions and risks to Gulf infrastructure.
-
----
-
-### 9. The War in Iran Is Crippling One of the World’s Wealthiest Nations
-> Iranian attacks and the halt of seaborne transit have paralyzed Qatar’s vital gas exports, stalling economic pivots inte
-
----
-
-### 10. Police arrest 2 juveniles allegedly linked to 12 random shootings injuring 4 people
-
----
-
-*数据: the-news API + 华尔街见闻 | 推送: Server酱*
-
-[INFO] 推送到微信...
-[OK] 微信推送成功!
-[INFO] 获取 the-news API (28家美国媒体头条)...
-[INFO] -> 获取到 25 条
-[INFO] 获取华尔街见闻 7x24 快讯...
-[INFO] -> 获取到 30 条
-[INFO] 智能排序筛选 Top 10...
-
-## 路透社 & 彭博社 每日十大热点
-**2026-05-18 18:17** (北京时间)
-
-### 1. **[路透/彭博]** 伊朗成立管理霍尔木兹海峡新机构
-
----
-
-### 2. **[路透/彭博]** 日本首相高市早苗呼吁编制补充预算 以应对中东局势带来的冲击
-
----
-
-### 3. Trump-backed prayer festival on National Mall draws thousands: ‘We welcome Jesus!’
-> Sunday’s “Rededicate 250” event features dozens of virtual and in-person speakers, including the president, top Republic
-
----
-
-### 4. Guns on television and in Iran's streets as Trump renews war threats
-
----
-
-### 5. President Trump eyes Thomas Massie in latest GOP purge election
-> The president has endorsed retired Navy SEAL Ed Gallrein in what marks his most aggressive attempt to catapult a dissent
-
----
-
-### 6. Trump Begins Branding America’s 250th Anniversary as a Christian Celebration
-
----
-
-### 7. TRUMP ADMIN ALL OVER CHRISTIAN NATIONALISM RALLY
-> LATEST UPDATES…
-
----
-
-### 8. Trump Humiliated as Citizens Fail to Flock to His Free Event
-> The president spoke via video to a sea of empty seats.
-
----
-
-### 9. 马斯克称希望尽快推进SpaceX的IPO计划
-
----
-
-### 10. ‘Teen takeover’ devolves into wild brawl inside DC Chipotle — as feds promise to charge ignorant parents
-> People could be heard screaming in the background as the youths vaulted on top of one another, throwing punches at rando
-
----
-
-*数据: the-news API + 华尔街见闻 | 推送: Server酱*
-
-[INFO] 推送到微信...
-[OK] 微信推送成功!
-[INFO] 获取 the-news API (28家美国媒体头条)...
-[INFO] -> 获取到 28 条
-[INFO] 获取华尔街见闻 7x24 快讯...
-[INFO] -> 获取到 30 条
-[INFO] 智能排序筛选 Top 10...
-
-## 路透社 & 彭博社 每日十大热点
-**2026-05-19 08:14** (北京时间)
-
-### 1. **[路透/彭博]** 提醒：日内请重点关注（以下均为北京时间）
-
----
-
-### 2. **[路透/彭博]** 报道：美国SEC将推股票“代币化”交易方案，开辟加密交易新战场
-
----
-
-### 3. Judge dismisses Trump's IRS lawsuit, paving the way for a settlement
-> The president sued the IRS and the Treasury Department in January, demanding $10 billion over the leak of his tax return
-
----
-
-### 4. Trump Says He Authorized New Strikes on Iran, but Has Decided to Hold Off
-> President Trump has repeatedly threatened new military action against Iran, only to pull back from resuming fighting in 
-
----
-
-### 5. Trump Says He Sees 'Good Chance' of Iran Nuke Deal After Delaying New Strike
-> "There seems to be a ⁠very ⁠good chance that they can work something out. ‌If we can do that without bombing the hell ou
-
----
-
-### 6. Trump says he’s called off an attack on Iran to give talks more time
-> In a Truth Social post, the president said the leaders of Qatar, Saudi Arabia and the United Arab Emirates had asked him
-
----
-
-### 7. Trump administration creates $1.776 billion fund for allies
-
----
-
-### 8. A Different Kind of Fading President
-> Joe Biden became quieter, while Donald Trump grows even louder.
-
----
-
-### 9. Trump gets his slush fund
-> How Trump sued himself and settled for $1.8 billion, briefly explained.
-
----
-
-### 10. Donald Trump and Josh Hawley's Federal Gas Tax Holiday Would Save Drivers Less Than $9 Per Month
-
----
-
-*数据: the-news API + 华尔街见闻 | 推送: Server酱*
-
-[INFO] 推送到微信...
-[OK] 微信推送成功!
-^C^C[INFO] 获取 the-news API (28家美国媒体头条)...
-[INFO] -> 获取到 28 条
-[INFO] 获取华尔街见闻 7x24 快讯...
-[INFO] -> 获取到 30 条
-[INFO] 智能排序筛选 Top 10...
-
-## 路透社 & 彭博社 每日十大热点
-**2026-05-19 16:23** (北京时间)
-
-### 1. **[路透/彭博]** 报道：复星国际已选择银行安排地中海俱乐部在香港进行IPO
-
----
-
-### 2. **[路透/彭博]** 世卫组织周二将就埃博拉疫情举行紧急会议。（彭博）
-
----
-
-### 3. **[路透/彭博]** 伊朗副外长公布伊对美协议草案提议 包括美军从周边地区撤离
-
----
-
-### 4. Trump says he’s called off an attack on Iran to give talks more time
-> In a Truth Social post, the president said the leaders of Qatar, Saudi Arabia and the United Arab Emirates had asked him
-
----
-
-### 5. A Different Kind of Fading President
-> Joe Biden became quieter, while Donald Trump grows even louder.
-
----
-
-### 6. Trump gets his slush fund
-> How Trump sued himself and settled for $1.8 billion, briefly explained.
-
----
-
-### 7. Donald Trump, Thomas Massie, and the Long, Slow Death of the Tea Party
-
----
-
-### 8. HUH? DEFENSE SEC. ON THE STUMP
-> LATEST UPDATES: Trump Goes After Maryland, Meta Layoffs, Arcade Game Satirizing Prez Heads To Florida, MORE...
-
----
-
-### 9. I Know Why Desperate Trump Is in Free Fall: Political Guru
-> “He is in bad shape,” political analyst David Rothkopf said of Trump, after the president was dealt yet another politica
-
----
-
-### 10. Donald Trump’s Impeachment Revenge Could Come Back to Bite
-
----
-
-*数据: the-news API + 华尔街见闻 | 推送: Server酱*
-
-[INFO] 推送到微信...
+[INFO] Pushing to WeChat...
 [OK] 微信推送成功!
